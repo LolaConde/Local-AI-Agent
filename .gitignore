@@ -1,0 +1,4 @@
+.venv
+files/*
+questions/*
+*/__pycache__/
